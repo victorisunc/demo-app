@@ -1,4 +1,4 @@
-Mobile DE - Demo App
+Demo App
 ====================
 
 This project implements a very simple API that manages customers and their ads as part of the coding challenge.
